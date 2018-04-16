@@ -1,0 +1,15 @@
+
+body{
+    width: 290px;
+    margin: 0;
+    padding: 0;
+    
+}
+
+div{
+    
+    padding: 55px 0 55px 0;
+    border-bottom: 10px dashed #cccccc;
+    background: #fcf8e3;
+    
+}

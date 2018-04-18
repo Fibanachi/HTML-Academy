@@ -1,0 +1,40 @@
+.container   {
+    background: red;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.outline{
+    border: 3px solid black;
+    background: gold;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.column1,
+.column2,
+.column3{
+    min-height: 200px;
+    
+}
+
+.column1{
+    float: left;
+    width: 104px;
+    margin-right: 25px;
+}
+
+.column2{
+    float: left;
+    width: 104px;
+    margin-right: 25px;
+}
+
+.column3{
+    float: left;
+    width: 104px;
+}
+
+.footer{
+    clear: both;
+}
